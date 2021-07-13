@@ -1,0 +1,33 @@
+#container {
+    display: flex;
+    flex-direction: row;
+}
+
+#empForm {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 10px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+#employeeDiv {
+    width: 50%;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+table {
+    width: 100%;
+}
+
+/* table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 5px;
+} */
